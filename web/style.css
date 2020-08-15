@@ -1,0 +1,21 @@
+body{
+	background-color: #d4d4d4;
+	color: #555555;
+	/*font-size: 56px;
+	font-weight: bold;*/
+	font: normal 50px, bold;
+}
+
+.myclass{
+	color:#E1C40B;
+	font-family: sans-serif;
+}
+h3{
+	color:green;
+}
+#mid{
+	color:red;
+}
+.hm{
+	color: rgb(35,21,155);
+}
